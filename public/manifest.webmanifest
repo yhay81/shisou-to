@@ -1,0 +1,16 @@
+{
+  "name": "試走灯",
+  "short_name": "試走灯",
+  "description": "Google Play クローズドテストの参加と14日間の進行を見える化する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#172536",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

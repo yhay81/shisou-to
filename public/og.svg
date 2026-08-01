@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">試走灯</title>
+  <desc id="description">12台の端末と14日間の試走路を表すクローズドテスト進行盤</desc>
+  <rect width="1200" height="630" fill="#f3f0e8"/>
+  <rect x="38" y="38" width="1124" height="554" rx="28" fill="#172536"/>
+  <path d="M78 138h1044M78 492h1044" stroke="#33465a" stroke-width="2"/>
+  <g transform="translate(82 92)">
+    <circle cx="14" cy="14" r="12" fill="#61c58a"/>
+    <path d="M9 14l4 4 7-9" fill="none" stroke="#172536" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="42" y="22" fill="#fffdf7" font-family="Yu Gothic UI, sans-serif" font-size="28" font-weight="700">CLOSED TEST CONTROL</text>
+  </g>
+  <g transform="translate(78 172)">
+    <rect width="522" height="274" rx="18" fill="#fffdf7"/>
+    <text x="34" y="54" fill="#33465a" font-family="Yu Gothic UI, sans-serif" font-size="20" font-weight="700" letter-spacing="3">TESTER ARRAY</text>
+    <g fill="#61c58a" stroke="#172536" stroke-width="5">
+      <rect x="34" y="79" width="58" height="84" rx="10"/><rect x="110" y="79" width="58" height="84" rx="10"/><rect x="186" y="79" width="58" height="84" rx="10"/><rect x="262" y="79" width="58" height="84" rx="10"/><rect x="338" y="79" width="58" height="84" rx="10"/><rect x="414" y="79" width="58" height="84" rx="10"/>
+    </g>
+    <g fill="#71bbd5" stroke="#172536" stroke-width="5">
+      <rect x="34" y="176" width="58" height="64" rx="10"/><rect x="110" y="176" width="58" height="64" rx="10"/><rect x="186" y="176" width="58" height="64" rx="10"/><rect x="262" y="176" width="58" height="64" rx="10"/><rect x="338" y="176" width="58" height="64" rx="10"/><rect x="414" y="176" width="58" height="64" rx="10"/>
+    </g>
+    <g fill="#172536">
+      <circle cx="63" cy="145" r="4"/><circle cx="139" cy="145" r="4"/><circle cx="215" cy="145" r="4"/><circle cx="291" cy="145" r="4"/><circle cx="367" cy="145" r="4"/><circle cx="443" cy="145" r="4"/>
+      <circle cx="63" cy="224" r="4"/><circle cx="139" cy="224" r="4"/><circle cx="215" cy="224" r="4"/><circle cx="291" cy="224" r="4"/><circle cx="367" cy="224" r="4"/><circle cx="443" cy="224" r="4"/>
+    </g>
+  </g>
+  <g transform="translate(628 172)">
+    <rect width="494" height="274" rx="18" fill="#fffdf7"/>
+    <text x="34" y="54" fill="#33465a" font-family="Yu Gothic UI, sans-serif" font-size="20" font-weight="700" letter-spacing="3">14-DAY RUNWAY</text>
+    <path d="M50 133h390" stroke="#c9c1b2" stroke-width="10" stroke-linecap="round"/>
+    <g stroke="#172536" stroke-width="4">
+      <circle cx="50" cy="133" r="14" fill="#61c58a"/><circle cx="80" cy="133" r="14" fill="#61c58a"/><circle cx="110" cy="133" r="14" fill="#61c58a"/><circle cx="140" cy="133" r="14" fill="#61c58a"/><circle cx="170" cy="133" r="14" fill="#61c58a"/><circle cx="200" cy="133" r="14" fill="#61c58a"/><circle cx="230" cy="133" r="14" fill="#61c58a"/>
+      <circle cx="260" cy="133" r="14" fill="#efbd55"/><circle cx="290" cy="133" r="14" fill="#fffdf7"/><circle cx="320" cy="133" r="14" fill="#fffdf7"/><circle cx="350" cy="133" r="14" fill="#fffdf7"/><circle cx="380" cy="133" r="14" fill="#fffdf7"/><circle cx="410" cy="133" r="14" fill="#fffdf7"/><circle cx="440" cy="133" r="14" fill="#fffdf7"/>
+    </g>
+    <path d="M50 189h390" stroke="#33465a" stroke-width="2" stroke-dasharray="7 9"/>
+    <g fill="#33465a" font-family="Yu Gothic UI, sans-serif" font-size="17" text-anchor="middle">
+      <text x="50" y="225">1</text><text x="140" y="225">4</text><text x="230" y="225">7</text><text x="320" y="225">10</text><text x="440" y="225">14</text>
+    </g>
+  </g>
+  <g transform="translate(78 520)">
+    <text x="0" y="32" fill="#fffdf7" font-family="Yu Gothic UI, sans-serif" font-size="40" font-weight="800">試走灯</text>
+    <text x="178" y="30" fill="#c9c1b2" font-family="Yu Gothic UI, sans-serif" font-size="25">12台の端末。14日の試走。</text>
+    <circle cx="982" cy="20" r="10" fill="#61c58a"/><circle cx="1014" cy="20" r="10" fill="#efbd55"/><circle cx="1046" cy="20" r="10" fill="#e7793c"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /c/
+Disallow: /m/
+Disallow: /t/
+
+Sitemap: https://shisou-to.yhay81.com/sitemap.xml
